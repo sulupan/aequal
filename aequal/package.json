@@ -1,0 +1,33 @@
+{
+  "name": "aequal",
+  "version": "1.0.0",
+  "description": "A learning application for students with hearing and vision impairments.",
+  "main": "src/index.jsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "firebase": "^9.0.0",
+    "chart.js": "^3.0.0",
+    "react-chartjs-2": "^3.0.0",
+    "lucide-react": "^0.0.0"
+  },
+  "devDependencies": {
+    "vite": "^2.0.0",
+    "tailwindcss": "^2.0.0",
+    "postcss": "^8.0.0",
+    "autoprefixer": "^10.0.0"
+  },
+  "keywords": [
+    "education",
+    "accessibility",
+    "react",
+    "firebase"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
